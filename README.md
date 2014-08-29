@@ -1,6 +1,7 @@
 # [A Simple JavaScript Trie Generator](http://ejohn.org/blog/javascript-trie-performance-analysis/)
 ## By John Resig
 
+
 Copyright 2011 John Resig  
 MIT Licensed
 
